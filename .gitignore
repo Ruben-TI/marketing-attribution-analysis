@@ -1,0 +1,29 @@
+# ---- Personal / working files (not part of the portfolio) ----
+Conversations/
+Power BI/
+about-me.md
+working-rules.md
+memory.md
+project-instructions.md
+progress-log.md
+
+# ---- Data: download from Kaggle instead (see README) ----
+*.csv
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# ---- Editors / OS ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+~$*
+
+# ---- Early scratch SQL (superseded by sql/schema.sql) ----
+1.sql
+2.sql
